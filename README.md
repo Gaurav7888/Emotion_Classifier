@@ -10,24 +10,32 @@ This <a href = "https://arxiv.org/pdf/2202.07991.pdf"> Paper </a> contains sate 
 
 The web app is built using **StreamLit**.
 
+<hr>
 
-## Instruction
-```json
-{
-      Instructions to run our web app:
-      clone this repo
-      pip install all the required libraries
-      change to main folder directory
-      In terminal run this command:
-      streamlit run app.py
-}
-```
+## Instructions to run our web app:
+ * clone this repo
+ * pip install -r requirements.txt
+ * change to main folder directory 
+ * In terminal run this command:
+    * streamlit run app.py
+ <hr>
 
 ## Live WebAPP is being hosted using streamlit cloud based share support:-
 
-https://share.streamlit.io/gaurav7888/emotion_classifier/main/app.py
+*  https://share.streamlit.io/gaurav7888/emotion_classifier/main/app.py
 
-The <a href = ""> apk file </a>
+### Live demo of the web app:
+*    https://youtu.be/w0oLvqrHkok
+
+<hr>
+
+## Mobile App
+
+*  "https://github.com/Gaurav7888/Emotion_Classifier/blob/main/_Emotion_detection_15653441.apk"
+
+### Live demo of the mobile app:
+*    https://youtu.be/G8GOHRBBuOg
+
 
 
 
