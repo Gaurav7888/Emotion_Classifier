@@ -34,7 +34,7 @@ The web app is built using **StreamLit**.
 *  "https://github.com/Gaurav7888/Emotion_Classifier/blob/main/_Emotion_detection_15653441.apk"
 
 ### Live demo of the mobile app:
-*    https://youtu.be/G8GOHRBBuOg
+*    https://youtu.be/3QQZnerBKz0
 
 
 
