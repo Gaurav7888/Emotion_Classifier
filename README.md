@@ -8,3 +8,5 @@ Instructions to run our web app:
 -> change to main folder directory
 -> In terminal run this command:
 -> streamlit run app.py
+
+https://share.streamlit.io/gaurav7888/emotion_classifier/main/app.py
