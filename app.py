@@ -1,6 +1,5 @@
 import streamlit as st
 from audio_feature.audio_featurizer import audio_process, spectrogram_plot, waveplot,lineplot
-from models.load_model import model_loader
 import numpy as np
 import pandas as pd
 from pydub import AudioSegment
