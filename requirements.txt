@@ -10,4 +10,5 @@ scikit_learn==1.1.1
 seaborn==0.11.0
 SoundFile==0.10.3.post1
 streamlit==1.10.0
-libsndfile1==1.4.4 
+libsndfile1
+soundfile
